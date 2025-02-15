@@ -12,4 +12,4 @@ Useful links:
 Grading:
 - 60 points - Implement spelling correction
 - 20 points - Justify your decisions
-- 20 points - Evaluate on a test set=
+- 20 points - Evaluate on a test set
