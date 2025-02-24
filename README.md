@@ -13,3 +13,27 @@ Grading:
 - 60 points - Implement spelling correction
 - 20 points - Justify your decisions
 - 20 points - Evaluate on a test set
+
+## Project Setup
+
+1. **Clone the repository:**
+   ```sh
+   git clone <repository-url>
+   cd nlp_assignment1
+   ```
+
+2. **Create a virtual environment:**
+   ```sh
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
+3. **Install the required packages**
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+   **OR** 
+
+   ```sh
+   bash setup.sh
+   ```
