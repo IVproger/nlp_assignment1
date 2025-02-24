@@ -18,7 +18,7 @@ Grading:
 
 1. **Clone the repository:**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/IVproger/nlp_assignment1.git
    cd nlp_assignment1
    ```
 
