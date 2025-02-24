@@ -37,3 +37,6 @@ Grading:
    ```sh
    bash setup.sh
    ```
+
+4. **Optionally, you can download my ngrams dataset till 4 degree**
+[Download from google disk](https://drive.google.com/file/d/1uEs7w4MwfunNedqzZ56y7JDoifgdKdWZ/view?usp=share_link)
